@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-inline-element",
+  "description": "Webkit sass ui module for inline element.",
+  "main": [
+    "dist/webkit-sassui-inline-element.css",
+    "dist/webkit-sassui-inline-element.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "inline-element"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

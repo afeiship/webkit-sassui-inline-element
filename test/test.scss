@@ -1,0 +1,22 @@
+@import "../dist/webkit-sassui-inline-element.scss";
+html,body{
+  height:100%;
+}
+body{
+  font-size: 14px;
+}
+h2{
+  border-left: 3px solid #ccc;
+  padding-left: 10px;
+}
+h3{
+  color:#999;
+  font-size: 14px;
+  font-weight: normal;
+}
+.blank-10{
+  height:10px;
+}
+.webkit-sassui-inline-icon-text1{
+  @include webkit-sassui-inline-icon-text(14px,1.6);
+}

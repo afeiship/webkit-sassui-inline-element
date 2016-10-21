@@ -1,0 +1,9 @@
+/*webkit-sassui-inline-element Start*/
+@mixin webkit-sassui-inline-icon-text($inFontSize:14px,$inLineHeight:1.4) {
+  font-size:$inFontSize;
+  line-height: $inLineHeight;
+  > * {
+    vertical-align: middle;
+  }
+}
+/*webkit-sassui-inline-element End*/
